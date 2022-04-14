@@ -1,1 +1,1 @@
-# TradeCaller
+TradeCaller = False
